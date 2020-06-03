@@ -1,4 +1,4 @@
-# first_flutter
+# All in One Sites App
 
 A new Flutter project.
 
